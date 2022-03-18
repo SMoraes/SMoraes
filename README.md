@@ -2,11 +2,10 @@
 <div align="left">
   <a href="https://github.com/SMoraes/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smoraes&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoraes&layout=compact&langs_count=2&theme=graywhite"/>
 </div>
   
-<div aligh="right">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoraes&layout=compact&langs_count=2&theme=graywhite"/>
-</div>
+  ##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Sergio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
