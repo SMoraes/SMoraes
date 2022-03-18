@@ -1,8 +1,8 @@
 # ## Hello, I'm Sergio Moraes.
-<div align="left">
+<div align="center">
   <a href="https://github.com/SMoraes/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smoraes&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoraes&layout=compact&langs_count=2&theme=graywhite"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoraes&layout=compact&langs_count=2&theme=graywhite"/>
 </div>
   
   ##
