@@ -1,4 +1,4 @@
-## Oiii eu sou a Sergio Moraes, criador de conteúdo de programação e tecnologia!
+## Olá, meu nome é Sergio Moraes, criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/SMoraes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smoraes&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
